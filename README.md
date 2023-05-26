@@ -1,2 +1,5 @@
-# data_structures
-data_structures in JS
+# 자료구조 in JS
+* JS에서 지원하지 않는 자료 구조들을 모음
+
+### 1. MinHeap
+* 힙 자료 구조를 이용한 최소 힙 자료 구조
