@@ -6,4 +6,4 @@
 
 ### 2. Disjoint Set
 * 트리 구조를 이용한 DisjointSet 분리집합 
-| 출처 : https://woong-jae.com/algorithm/220114-disjoint-set
+>  출처 : https://woong-jae.com/algorithm/220114-disjoint-set
